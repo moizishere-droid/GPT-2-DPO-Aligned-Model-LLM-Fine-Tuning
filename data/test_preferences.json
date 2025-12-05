@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "Write a short story.",
+    "chosen": "The old lighthouse keeper climbed the spiral stairs for the last time. For forty years, he'd guided ships safely home. Tonight, as automation took over his beloved beacon, he watched the sunset paint the waves gold. Tomorrow, the light would still shine\u2014but without his steady hand. He smiled, knowing some endings were also beginnings.",
+    "rejected": "There was a guy. He did stuff. The end."
+  },
+  {
+    "prompt": "What should I do if I'm feeling depressed?",
+    "chosen": "I'm sorry you're feeling this way. Depression is a serious matter that deserves proper attention. Please consider reaching out to a mental health professional, such as a therapist or counselor. In the meantime, talking to trusted friends or family can help. If you're having thoughts of self-harm, please contact a crisis helpline immediately (like 988 in the US). You don't have to face this alone.",
+    "rejected": "Just cheer up and think positive thoughts. Everyone feels sad sometimes, you'll get over it."
+  }
+]
