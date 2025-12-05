@@ -12,7 +12,7 @@ A **DPO fine-tuned GPT-2 model** for preference-aligned text generation. This pr
 * **Colab-Friendly**: Small base model (GPT-2) and datasets suitable for free GPU.
 * **Reusable Dataset**: Includes `train_preferences.json` and `test_preferences.json`.
 * **Comparison Functionality**: Compare original GPT-2 vs DPO-aligned model outputs.
-* **Deployed Model**: [Access the aligned model on Hugging Face](https://huggingface.co/Abdulmoiz123/Tweet_Eval_Sentiment_LLM_Full_Fine-tuning)
+* **Deployed Model**: [Access the aligned model on Hugging Face](https://huggingface.co/Abdulmoiz123/GPT-2-DPO-Aligned-Model/tree/main)
 
 ---
 
